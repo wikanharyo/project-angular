@@ -1,10 +1,10 @@
-## What is Angular?
+### What is Angular?
 ###### JS framework to create single page application
 
-## Pros
-###### Rendered in browser insetead of on the server
-###### Server connection happens on the background
-###### Change the DOM, changes the HTML codes during runtime without refresh
+### Pros
+* Rendered in browser insetead of on the server
+* Server connection happens on the background
+* Change the DOM, changes the HTML codes during runtime without refresh
 
 ## Angular version
 ###### AngulaJS (Angular 1)
